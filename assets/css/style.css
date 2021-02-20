@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #b43c3c;
+  color: #f8f5f5;
 }
 
 .navbar .dropdown ul {
@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 #hero .btn-get-started:hover {
-  background: #c46868;
+  background: #ff853f;
   color: #fff;
   text-decoration: none;
 }
@@ -2120,7 +2120,7 @@ section {
 
 .blog .sidebar .tags ul a span {
   padding-left: 5px;
-  color: #bedae8;
+  color: #e8bebe;
   font-size: 14px;
 }
 
@@ -2128,7 +2128,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #0b212d;
+  background: #2d0b0b;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -2136,7 +2136,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #0d2735;
+  background: #350d0d;
 }
 
 #footer .footer-newsletter h4 {
@@ -2145,7 +2145,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #a2cce3;
+  color: #e3a2a2;
 }
 
 #footer .footer-newsletter form {
@@ -2172,7 +2172,7 @@ section {
   font-size: 16px;
   padding: 0 20px;
   margin: 3px;
-  background: #f15a5a;
+  background: #753434;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -2183,9 +2183,9 @@ section {
 }
 
 #footer .footer-top {
-  background: #f53030;
-  border-top: 1px solid #ff3f3f;
-  border-bottom: 1px solid #f83c3c;
+  background: #862f2f;
+  border-top: 1px solid #963131;
+  border-bottom: 1px solid #7c2626;
   padding: 60px 0 30px 0;
 }
 
@@ -2213,7 +2213,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #f73c3c;
+  background: #f76262;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -2251,7 +2251,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #f33e3e;
+  color: #f76868;
   font-size: 18px;
   line-height: 1;
 }
@@ -2274,7 +2274,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #a2cce3;
+  color: #e3a4a2;
 }
 
 #footer .footer-top .footer-contact {
